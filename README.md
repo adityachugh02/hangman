@@ -8,4 +8,4 @@ You have 5 lives to guess the random word.
 > git clone https://github.com/adityachugh02/hangman
 
 ## Usage
-> python main.py
+<code> >python main.py</code>
