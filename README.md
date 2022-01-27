@@ -9,4 +9,5 @@ You have 5 lives to guess the random word.
 
 ## Usage
 <code> $ cd [PATH]/hangman</code>
+
 <code> $ python main.py</code>
