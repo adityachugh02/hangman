@@ -8,6 +8,6 @@ You have 5 lives to guess the random word.
 > git clone https://github.com/adityachugh02/hangman
 
 ## Usage
-<code> $ cd [PATH]/hangman</code>
-
-<code> $ python main.py</code>
+<code> 
+$ cd [PATH]/hangman
+$ python main.py</code>
