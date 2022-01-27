@@ -1,6 +1,6 @@
 # Hangman
 ## Description
-This game lets you play Hangman without seeing the horror of a man being hanged!
+This game lets you play Hangman without witnessing the horror of a man being hanged!
 
 You have 5 lives to guess the random word.
 
@@ -8,4 +8,5 @@ You have 5 lives to guess the random word.
 > git clone https://github.com/adityachugh02/hangman
 
 ## Usage
-<code> >python main.py</code>
+<code> $ cd [PATH]/hangman</code>
+<code> $ python main.py</code>
